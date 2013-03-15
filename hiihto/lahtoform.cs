@@ -139,6 +139,9 @@ namespace hiihto
 
         private void aloita_sarja_Button_Click(object sender, EventArgs e)
         {
+            Serializer ser = new Serializer();
+            ser.SerializeObject("kilipailu.txt", kilpailu);
+
             if (laht_sarjat_listBox.SelectedIndex > -1)
             {
                 kilpailu.asetaLahtoajat(laht_sarjat_listBox.SelectedIndex);

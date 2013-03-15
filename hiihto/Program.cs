@@ -15,7 +15,8 @@ namespace hiihto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new lahtoform());
+            //Application.Run(new lahtoform());
+            Application.Run(new LahtoJarjestelma());
         }
     }
 }

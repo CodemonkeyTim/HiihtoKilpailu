@@ -59,12 +59,12 @@ namespace perusluokat
         public Kilpailija(SerializationInfo info, StreamingContext ctxt)
         {
             this.nimi = (string)info.GetValue("nimi", typeof(string));
-            this.ika = (int)info.GetValue("nimi", typeof(int));
-            this.sukupuoli = (int)info.GetValue("nimi", typeof(int));
-            this.lahtoaika = (long)info.GetValue("nimi", typeof(long));
-            this.maaliintuloaika = (long)info.GetValue("nimi", typeof(long));
-            this.kilpailunumero = (int)info.GetValue("nimi", typeof(int));
-            this.lahtoryhma = (int)info.GetValue("nimi", typeof(int));
+            this.ika = (int)info.GetValue("ika", typeof(int));
+            this.sukupuoli = (int)info.GetValue("sukupuoli", typeof(int));
+            this.lahtoaika = (long)info.GetValue("lahtoaika", typeof(long));
+            this.maaliintuloaika = (long)info.GetValue("maaliintuloaika", typeof(long));
+            this.kilpailunumero = (int)info.GetValue("kilpailunumero", typeof(int));
+            this.lahtoryhma = (int)info.GetValue("lahtoryhma", typeof(int));
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext ctxt)
@@ -267,13 +267,13 @@ namespace perusluokat
             ikaMax = _ikaMax;
         }
 
-        public void Sarja(SerializationInfo info, StreamingContext ctxt)
+        public Sarja(SerializationInfo info, StreamingContext ctxt)
         {
             this.sarjanimi = (string)info.GetValue("sarjanimi", typeof(string));
             this.vaadittusukupuoli = (int)info.GetValue("vaadittusukupuoli", typeof(int));
             this.ikaMin = (int)info.GetValue("ikaMin", typeof(int));
             this.ikaMax = (int)info.GetValue("ikaMax", typeof(int));
-            this.kilpailijalista = (List<Kilpailija>)info.GetValue("ikaMax", typeof(List<Kilpailija>));
+            this.kilpailijalista = (List<Kilpailija>)info.GetValue("kilpailijalista", typeof(List<Kilpailija>));
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext ctxt)
@@ -373,7 +373,7 @@ namespace perusluokat
         {
             this.kilpailunimi = (string)info.GetValue("kilpailunimi", typeof(string));
             this.tapahtumapaikka = (string)info.GetValue("tapahtumapaikka", typeof(string));
-            this.sarjalista = (List<Sarja>)info.GetValue("sarjanimi", typeof(List<Sarja>));
+            this.sarjalista = (List<Sarja>)info.GetValue("sarjalista", typeof(List<Sarja>));
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext ctxt)
