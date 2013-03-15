@@ -1,0 +1,27 @@
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\bin\Debug\hiihto.exe
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\bin\Debug\hiihto.pdb
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.lahtoform.resources
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.Properties.Resources.resources
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.exe
+C:\Users\NettiWelho\Desktop\koulu\sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.pdb
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.exe
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.pdb
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.lahtoform.resources
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\hiihto.Properties.Resources.resources
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\bin\Debug\hiihto.exe
+Z:\Sovelluskehitys\hiihtosovellus\hiihto\hiihto\bin\Debug\hiihto.pdb
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\obj\x86\Debug\hiihto.exe
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\obj\x86\Debug\hiihto.pdb
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\bin\Debug\hiihto.exe
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\bin\Debug\hiihto.pdb
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\obj\x86\Debug\hiihto.lahtoform.resources
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\obj\x86\Debug\hiihto.Properties.Resources.resources
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vaintee2\Documents\Visual Studio 2010\Projects\hiihto\hiihto\obj\x86\Debug\GenerateResource.write.1.tlog
